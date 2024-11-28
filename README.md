@@ -42,3 +42,17 @@ A simple Python-based application to manage user's budget by tracking expenses, 
         - View the total budget, all logged expenses, total spent, and remaining balance.
     - Option 3: Exit
         - Save the budget data to a JSON file (budget_data.json) and exit the application.
+
+## Example Usage
+   ```
+   Welcome to the Budget App
+
+   What would you like to do?
+   1. Add an expense
+   2. Show budget details
+   3. Exit
+   Enter your choice (1/2/3): 1
+   Enter expense description: Groceries
+   Enter expense amount: 150
+   Added expense: Groceries, Amount: 150
+   ```
